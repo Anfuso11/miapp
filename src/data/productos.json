@@ -5,7 +5,10 @@
         "precio": 199.99,
         "imagen": "./img/nikedunkpanda.jpg",
         "descripcion": "Zapatillas de Moda para Hombre",
-        "categoria": "Hombre" 
+        "categoria": {
+            "id": "hombre",
+            "nombre": "Hombre"
+        }
     },
     {
         "id": 2,
@@ -13,15 +16,21 @@
         "precio": 209.99,
         "imagen": "./img/airmax1blue.webp",
         "descripcion": "Zapatillas de moda para mujer",
-        "categoria": "Mujer"
+        "categoria": {
+            "id": "mujer",
+            "nombre": "Mujer"
+        }
     },
     {
         "id": 3,
-        "nombre": "Nike Dunk Low Retro Premium",
+        "nombre": "Nike Dunk Low Retro",
         "precio": 249.99,
         "imagen": "./img/nikedunklowretro.webp",
         "descripcion": "Zapatillas de Moda para Hombre",
-        "categoria": "Hombre"
+        "categoria": {
+            "id": "hombre",
+            "nombre": "Hombre"
+        }
     },
     {
         "id": 4,
@@ -29,7 +38,10 @@
         "precio": 229.99,
         "imagen": "./img/airmax1.webp",
         "descripcion": "Zapatilla de moda para niño",
-        "categoria": "Niño"
+        "categoria": {
+            "id": "niño",
+            "nombre": "Niño"
+        }
     },
     {
         "id": 5,
@@ -37,7 +49,10 @@
         "precio": 179.99,
         "imagen": "./img/airforce1red.webp",
         "descripcion": "Zapatillas de moda para mujer",
-        "categoria": "Mujer"
+        "categoria": {
+            "id": "mujer",
+            "nombre": "Mujer"
+        }
     },
     {
         "id": 6,
@@ -45,6 +60,9 @@
         "precio": 155.99,
         "imagen": "./img/airforce1low.webp",
         "descripcion": "Zapatilla de moda para hombre",
-        "categoria": "Hombre"
+        "categoria": {
+            "id": "hombre",
+            "nombre": "Hombre"
+        }
     }
 ]

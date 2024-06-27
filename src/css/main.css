@@ -90,3 +90,49 @@ footer {
     text-align: center;
     font-weight: 800;
 }
+
+.button-carrito {
+    color: black;
+    background-color: orange;
+    text-decoration: none;
+    border-radius: .5rem;
+    margin: 1rem;
+}
+
+.button-vermas {
+    color: white;
+    background-color: black;
+    border-radius: .5rem;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.agregar-al-carrito{
+    color: black;
+    background-color: orange;
+    text-decoration: none;
+    border-radius: .5rem;
+    margin: 1rem;
+}
+
+.pre-carrito{
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.title-finalizarcompra{
+    padding-block: 2rem;
+}
+
+.formulario-compra{
+    text-align: center;
+}
+
+.container-final {
+    text-align: center;
+    padding-block: 1.5rem;
+}
+.imagengrande{
+    height: 200px;
+    width: 200px;
+}
