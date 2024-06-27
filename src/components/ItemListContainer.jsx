@@ -9,7 +9,7 @@ export const ItemListContainer = () => {
 
   let [productos, setProductos] = useState([]);
 
-  let [titulo, setTitulo] = useState("PRODUCTOS");
+  let [titulo] = useState("PRODUCTOS");
 
   const categoria = useParams().categoria;
   

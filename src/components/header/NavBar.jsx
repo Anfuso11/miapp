@@ -6,8 +6,8 @@ export const NavBar = () => {
   return (
     <nav className="nav">
         <ul className="nav-menu">
-            <li className="nav-item">
-              <NavLink to="/" activeclassname="active" className="nav-link">INICIO</NavLink>
+          <li className="nav-item">
+              <NavLink to="/" activeclassname="active" className="nav-link">HOMBRE</NavLink>
             </li>
             <li className="nav-item">
               <NavLink to="/" activeclassname="active" className="nav-link">HOMBRE</NavLink>
