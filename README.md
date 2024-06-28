@@ -7,7 +7,7 @@ Este E-Commerce es un proyecto realizado para el curso de "React Js" de la plata
 Para correr este proyecto el primer paso es clonar este repositorio y ejecutar npm install en la terminal para instalar dependencias y por último ejecutar npm run dev para levantar el proyecto de manera local.
 
 ## Versión Host
-sneakers-arg.com
+https://miapp-seven.vercel.app/
 
 ## Librerías utilizadas 📚
 Firebase: Utilizada como base de datos del proyecto
